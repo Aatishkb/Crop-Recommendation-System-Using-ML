@@ -6,31 +6,31 @@ The Crop Recommendation System is a machine learning-based solution designed to 
 
 ## Features
 
-Predicts the best crop to cultivate based on input parameters.
+- Predicts the best crop to cultivate based on input parameters.
 
-Utilizes environmental and soil data for decision-making.
+- Utilizes environmental and soil data for decision-making.
 
-User-friendly input system for easy data entry.
+- User-friendly input system for easy data entry.
 
-High accuracy with pre-trained machine learning models.
+- High accuracy with pre-trained machine learning models.
 
 ## Input Parameters
 
-The system requires the following input parameters for making predictions:
+- The system requires the following input parameters for making predictions:
 
-N: Nitrogen content in the soil (kg/ha).
+- N: Nitrogen content in the soil (kg/ha).
 
-P: Phosphorus content in the soil (kg/ha).
+- P: Phosphorus content in the soil (kg/ha).
 
-K: Potassium content in the soil (kg/ha).
+- K: Potassium content in the soil (kg/ha).
 
-Temperature: Atmospheric temperature (°C).
+- Temperature: Atmospheric temperature (°C).
 
-Humidity: Relative humidity (%).
+- Humidity: Relative humidity (%).
 
-pH: pH value of the soil.
+- pH: pH value of the soil.
 
-Rainfall: Annual rainfall (mm).
+- Rainfall: Annual rainfall (mm).
 
 ## How It Works
 
@@ -44,7 +44,7 @@ Rainfall: Annual rainfall (mm).
 
 ## Technologies Used
 
-Programming Language: Python
+- Programming Language: Python
 
 ## Libraries:
 
@@ -56,31 +56,31 @@ scikit-learn for building and deploying machine learning models.
 
 Machine Learning Model: Pre-trained classification model.
 
-
-Enter the input parameters as prompted.
-
-View the recommended crop based on the input data.
+## Result:
+- Enter the input parameters as prompted.
+  
+- View the recommended crop based on the input data.
 
 # Example
 
 ### Input:
 
-Enter value for N (Nitrogen): 90
-Enter value for P (Phosphorous): 40
-Enter value for K (Potassium): 30
-Enter value for temperature: 25
-Enter value for humidity: 70
-Enter value for pH: 6.5
-Enter value for rainfall: 100
+- Enter value for N (Nitrogen): 90
+- Enter value for P (Phosphorous): 40
+- Enter value for K (Potassium): 30
+- Enter value for temperature: 25
+- Enter value for humidity: 70
+- Enter value for pH: 6.5
+- Enter value for rainfall: 100
 
 ### Output:
 
-The predicted class for the input data is: Rice
+- The predicted class for the input data is: Rice
 
 
 ## Contact
 
-For any queries or support, please reach out to:
+- For any queries or support, please reach out to:
 
-Thank you for using the Crop Recommendation System! We hope it helps improve agricultural productivity and decision-making.
+- Thank you for using the Crop Recommendation System! We hope it helps improve agricultural productivity and decision-making.
 
