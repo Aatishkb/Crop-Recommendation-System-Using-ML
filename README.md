@@ -54,8 +54,6 @@ numpy for numerical computations.
 
 scikit-learn for building and deploying machine learning models.
 
-Machine Learning Model: Pre-trained classification model.
-
 ## Result:
 - Enter the input parameters as prompted.
   
